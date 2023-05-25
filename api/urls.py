@@ -1,4 +1,4 @@
-from api.views import resume_view
+from api.views import resume_view, pdf_decode_view
 
 """resumeClassificator URL Configuration
 
@@ -18,5 +18,6 @@ Including another URLconf
 from django.urls import path
 
 urlpatterns = [
-    path("from-form", resume_view)
+    path("from-form", resume_view),
+    path("from-pdf", pdf_decode_view)
 ]

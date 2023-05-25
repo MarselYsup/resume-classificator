@@ -1,4 +1,6 @@
 import re
+import random
+
 
 def clean_resume(resumeText):
     resumeText = re.sub('http\S+\s*', ' ', resumeText)  # remove URLs
@@ -10,3 +12,7 @@ def clean_resume(resumeText):
     resumeText = re.sub('\s+', ' ', resumeText)  # remove extra whitespace
     resumeText = resumeText.lower()
     return resumeText
+
+
+def get_suggestion():
+    return random.choice(open('data.txt').readlines())
