@@ -1,3 +1,7 @@
-Suggestion1
-Suggestion2
-Very long suggestion number 3
+Structure your resume. Divide it into sections such as "Education", "Work Experience", "Skills", "Achievements", etc.
+Use keywords and phrases that match the job you are applying for. This will help your resume get into the list of candidates that will be analyzed by the program.
+Describe your work experience and achievements specifically and clearly. Specify what tasks you performed and what results you achieved.
+Specify your skills and qualifications that match the requirements of the job. Don't forget to mention your knowledge of programming languages, databases, content management systems, etc.
+Specify your personal qualities that can be useful in work, such as communicativeness, responsibility, creative approach, etc
+Don't forget to provide contact information such as email and phone number. Make sure they are listed correctly and up-to-date.
+Check your resume for errors and typos. This can affect your chances of getting a job.
